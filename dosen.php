@@ -28,6 +28,8 @@ class Dosen extends Database
         return $datadosen;
     }
 
+
+    
     // Menampilkan data berdasarkan id
     public function edit($id)
     {
